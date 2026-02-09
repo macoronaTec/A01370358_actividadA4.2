@@ -1,0 +1,7 @@
+Media: 249.78
+Mediana: 249.00
+Moda: 94.0 (se repite 40 veces)
+Máxima frecuencia: 40.00
+Varianza: 21119.55
+Desviación Estándar: 145.33
+Tiempo de ejecución: 0.00375 segundos
