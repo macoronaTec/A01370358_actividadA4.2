@@ -1,0 +1,7 @@
+Cantidad de datos: 307
+Media: 241.50
+Mediana: 241.00
+Moda: 393.0 (se repite 3 veces)
+Varianza: 21229.17
+Desviación Estándar: 145.70
+Tiempo de ejecución: 0.00010 segundos
