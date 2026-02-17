@@ -1,0 +1,44 @@
+Decimal: -39 | Binario: 11011001 | Hexadecimal: D9
+Decimal: -36 | Binario: 11011100 | Hexadecimal: DC
+Decimal: 8 | Binario: 00001000 | Hexadecimal: 08
+Decimal: 34 | Binario: 00100010 | Hexadecimal: 22
+Decimal: 17 | Binario: 00010001 | Hexadecimal: 11
+Decimal: 49 | Binario: 00110001 | Hexadecimal: 31
+Decimal: 5 | Binario: 00000101 | Hexadecimal: 05
+Decimal: ABC | Binario: #VALUE! | Hexadecimal: #VALUE!
+Decimal: 0 | Binario: 00000000 | Hexadecimal: 00
+Decimal: 33 | Binario: 00100001 | Hexadecimal: 21
+Decimal: 12 | Binario: 00001100 | Hexadecimal: 0C
+Decimal: -6 | Binario: 11111010 | Hexadecimal: FA
+Decimal: 27 | Binario: 00011011 | Hexadecimal: 1B
+Decimal: -4 | Binario: 11111100 | Hexadecimal: FC
+Decimal: -38 | Binario: 11011010 | Hexadecimal: DA
+Decimal: 26 | Binario: 00011010 | Hexadecimal: 1A
+Decimal: 49 | Binario: 00110001 | Hexadecimal: 31
+Decimal: 29 | Binario: 00011101 | Hexadecimal: 1D
+Decimal: 42 | Binario: 00101010 | Hexadecimal: 2A
+Decimal: -16 | Binario: 11110000 | Hexadecimal: F0
+Decimal: ERR | Binario: #VALUE! | Hexadecimal: #VALUE!
+Decimal: 34 | Binario: 00100010 | Hexadecimal: 22
+Decimal: 20 | Binario: 00010100 | Hexadecimal: 14
+Decimal: 0 | Binario: 00000000 | Hexadecimal: 00
+Decimal: 25 | Binario: 00011001 | Hexadecimal: 19
+Decimal: 45 | Binario: 00101101 | Hexadecimal: 2D
+Decimal: 3 | Binario: 00000011 | Hexadecimal: 03
+Decimal: -46 | Binario: 11010010 | Hexadecimal: D2
+Decimal: -46 | Binario: 11010010 | Hexadecimal: D2
+Decimal: 29 | Binario: 00011101 | Hexadecimal: 1D
+Decimal: 33 | Binario: 00100001 | Hexadecimal: 21
+Decimal: 29 | Binario: 00011101 | Hexadecimal: 1D
+Decimal: 26 | Binario: 00011010 | Hexadecimal: 1A
+Decimal: -5 | Binario: 11111011 | Hexadecimal: FB
+Decimal: -36 | Binario: 11011100 | Hexadecimal: DC
+Decimal: 12 | Binario: 00001100 | Hexadecimal: 0C
+Decimal: 45 | Binario: 00101101 | Hexadecimal: 2D
+Decimal: -50 | Binario: 11001110 | Hexadecimal: CE
+Decimal: 0 | Binario: 00000000 | Hexadecimal: 00
+Decimal: -6 | Binario: 11111010 | Hexadecimal: FA
+Decimal: VAL | Binario: #VALUE! | Hexadecimal: #VALUE!
+
+Tiempo total de ejecución: 0.000109 segundos
+Total de errores detectados: 3
